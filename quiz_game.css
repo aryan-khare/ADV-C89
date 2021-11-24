@@ -6,3 +6,12 @@ h2 {
     font-style: italic;
     font-weight: 300;
 }
+
+#output {
+    background: white;
+    border-radius: 10px;
+    border-top: solid #aa4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
